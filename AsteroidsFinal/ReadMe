@@ -1,0 +1,20 @@
+Asteroids by Brandon Son
+
+Use the 'W' key to move forward in the direction you are facing. 
+Press 'A' to rotate left, press 'D' to rotate right.
+Press Shift to randomly teleport to another location on the screen
+But beware of randomly teloporting into asteroids.
+Press Space to shoot.
+
+Do not get hit by the asteroids, if you do you lose a life. 
+Lives are displayed in the top left corner.
+
+Accumulate the most points you can by shooting the asteroids.
+Large Asteroids = 1000 points.
+Medium Asteroids = 2000 points.
+Large Asteroids = 3000 points.
+Final score is shown after the game is over.
+
+
+
+
